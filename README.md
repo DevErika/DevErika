@@ -1,14 +1,13 @@
-
 <h1 align="center">
   <span style="color:#2196F3;">Hey there! 👋 I'm Erika</span>
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat" />
+  <img src="https://media1.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="200" alt="Coding Cat" />
 </p>
-
+<!-- https://media1.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif
 ---
-
+https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif-->
 🎓 **Trilingual professional** with experience in various administrative and management roles.  
 💻 I'm passionate about technology and all the amazing things we can build with it.
 
